@@ -1,12 +1,10 @@
 {
-    "name": "com.digittwin.lib",
+    "name": "com.yagudin.digittwin",
     "displayName": "Digit Twin Lib",
     "version": "0.0.1",
     "unity": "2021.3",
-    "description": "Описание вашей библиотеки Moorinet",
+    "description": "Библиотека контрактов и данных для геообъектов",
     "keywords": ["networking", "digittwin"],
-    "category": "Networking",
-    "dependencies": {},
     "author": {
       "name": "Yagudin Aleksandr",
       "email": "aleks19972003@gmail.com",
