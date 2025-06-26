@@ -1,7 +1,7 @@
 {
     "name": "com.yagudin.digittwin",
-    "displayName": "Digit Twin Lib",
-    "version": "1.1.0",
+    "displayName": "DigitTwin Lib",
+    "version": "1.1.1",
     "unity": "2021.3",
     "description": "Библиотека контрактов и данных для геообъектов",
     "keywords": ["networking", "digittwin"],
